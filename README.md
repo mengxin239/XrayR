@@ -1,7 +1,7 @@
 # XrayR
 
-[![](https://img.shields.io/badge/TgChat-@XrayR讨论-blue.svg)](https://t.me/XrayR_project)
-[![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/XrayR_channel)
+[![](https://img.shields.io/badge/TgChat-@萌新のBlog（群）-blue.svg)](https://t.me/mengxblog)
+[![](https://img.shields.io/badge/Channel-@萌新のBlog（频道）-blue.svg)](https://t.me/mengxinBlog)
 
 A Xray backend framework that can easily support many panels.
 
@@ -64,7 +64,7 @@ A Xray backend framework that can easily support many panels.
 ### 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/Misaka-blog/XrayR-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontents.com/mengxin239/XrayR-script/master/install.sh && bash install.sh
 ```
 
 ### 使用Docker部署
@@ -92,10 +92,10 @@ wget -N https://raw.githubusercontents.com/Misaka-blog/XrayR-script/master/insta
 
 ## Telgram
 
-[XrayR后端讨论](https://t.me/XrayR_project)
+群组：[萌新のBlog](https://t.me/mengxblog)
 
-[XrayR通知](https://t.me/XrayR_channel)
+频道：[萌新のBlog](https://t.me/mengxinBlog)
 
 ## Stars 增长记录
 
-[![Stargazers over time](https://starchart.cc/Misaka-blog/XrayR.svg)](https://starchart.cc/Misaka-blog/XrayR)
+[![Stargazers over time](https://starchart.cc/mengxin239/XrayR.svg)](https://starchart.cc/mengxin239/XrayR)
