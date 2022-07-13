@@ -1,7 +1,5 @@
 module github.com/Misaka-blog/XrayR
 
-go 1.18
-
 require (
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
@@ -12,7 +10,7 @@ require (
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/imdario/mergo v0.3.13
-	github.com/juju/ratelimit v1.0.1
+	github.com/juju/ratelimit v1.0.2
 	github.com/r3labs/diff/v2 v2.15.1
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/spf13/viper v1.12.0
